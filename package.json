@@ -1,0 +1,26 @@
+{
+  "name": "watchmen-ping-http-unique",
+  "version": "1.0.3",
+  "description": "HTTP ping service for watchmen",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arthurnumen/watchmen-ping-http-unique.git"
+  },
+  "keywords": [
+    "watchmen",
+    "ping"
+  ],
+  "author": "arthur numen (arthurnumen12@gmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arthurnumen/watchmen-ping-http-unique/issues"
+  },
+  "homepage": "https://github.com/arthurnumen/watchmen-ping-http-unique#readme",
+  "dependencies": {
+    "request": "^2.81.0"
+  }
+}
